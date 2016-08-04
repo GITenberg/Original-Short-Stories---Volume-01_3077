@@ -1,0 +1,43 @@
+_repo: Original-Short-Stories---Volume-01_3077
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Henderson, A. E.
+    gutenberg_agent_id: '33125'
+    url: http://www.gutenberg.org/2009/agents/33125
+  - agent_name: Quesada, Louise Charlotte Garstin
+    alias: Quesada, Mme.
+    gutenberg_agent_id: '4595'
+    url: http://www.gutenberg.org/2009/agents/4595
+  - agent_name: McMaster, Albert Cohn
+    gutenberg_agent_id: '33124'
+    url: http://www.gutenberg.org/2009/agents/33124
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2004-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Boule de Suif --Two friends -- The lancer's wife -- The prisoners
+  -- Two little soldiers -- Father Milon -- A coup d'tat -- Lieutenant Lare's marriage
+  --The horrible --Madame Parisse --Mademoiselle Fifi -- A duel.
+title: Original Short Stories — Volume 01
+url: http://www.gutenberg.org/ebooks/3077
